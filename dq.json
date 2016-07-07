@@ -12,17 +12,13 @@
     "goodtables_web": "http://goodtables.okfnlabs.org",
     "arguments": {
       "pipeline": {
-        "processors": ["structure", "schema"],
-	"options":{
-          "schema": {"case_insensitive_headers": true}
-	},
+        "processors": ["structure"],
 	"encoding": "ISO-8859-2"
       },
       "batch": {
 	"sleep":2,
 	"data_key": "data",
-      	"format_key": "format",
-        "schema_key": "schema"
+        "format_key": "format"
       }
     }
   }

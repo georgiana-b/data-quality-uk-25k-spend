@@ -126,11 +126,6 @@
                   "name":"period_id",
                   "title":"Period ID",
                   "type":"string"
-               },
-               {
-                  "name":"schema",
-                  "title":"Schema file path",
-                  "type":"string"
                }
             ],
             "primaryKey":[
