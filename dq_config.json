@@ -32,10 +32,6 @@
     "result_file": "results.csv",
     "run_file": "runs.csv",
     "source_file": "sources.csv",
-    "assess_timeliness": true,
-    "timeliness": {
-        "extract_period": true,
-        "timeliness_strategy": ["title", "data"],
-        "max_empty_relevance_period": 60
-    }
+    "assess_timeliness": false,
+    "timeliness": {}
 }
