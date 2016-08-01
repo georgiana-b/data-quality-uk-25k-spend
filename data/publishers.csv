@@ -1,22 +1,28 @@
-id,title,type,homepage,contact,email,parent_id
-attorney-generals-office,Attorney General's Office,ministerial-department,http://data.gov.uk/publisher/attorney-generals-office,AGO Correspondence Unit,correspondance@attorneygeneral.gsi.gov.uk,
-cabinet-office,Cabinet Office,ministerial-department,http://data.gov.uk/publisher/cabinet-office,Cabinet Office transparency,co-transparency@cabinetoffice.gov.uk,
-department-for-business-innovation-and-skills,"Department for Business, Innovation and Skills",ministerial-department,http://data.gov.uk/publisher/department-for-business-innovation-and-skills,Transparency Team,transparency@bis.gsi.gov.uk,
-department-for-communities-and-local-government,Department for Communities and Local Government,ministerial-department,http://data.gov.uk/publisher/department-for-communities-and-local-government,,contactus@communities.gsi.gov.uk,
-department-for-culture-media-and-sport,"Department for Culture, Media and Sport",ministerial-department,http://data.gov.uk/publisher/department-for-culture-media-and-sport,DCMS Enquiries,enquiries@culture.gsi.gov.uk,
-department-for-education,Department for Education,ministerial-department,http://data.gov.uk/publisher/department-for-education,www.education.gov.uk/ contact,http://www.education.gov.uk/help/contactus,
-department-for-environment-food-and-rural-affairs,"Department for Environment, Food and Rural Affairs",ministerial-department,http://data.gov.uk/publisher/department-for-environment-food-and-rural-affairs,Open Defra mailbox,open@defra.gsi.gov.uk,
-department-for-international-development,Department for International Development,ministerial-department,http://data.gov.uk/publisher/department-for-international-development,,enquiry@dfid.gov.uk,
-department-for-transport,Department for Transport,ministerial-department,http://data.gov.uk/publisher/department-for-transport,Information Handling Team,informationhandling@dft.gsi.gov.uk,
-department-for-work-and-pensions,Department for Work and Pensions,ministerial-department,http://data.gov.uk/publisher/department-for-work-and-pensions,,freedom-of-information-request@dwp.gsi.gov.uk,
-department-of-energy-and-climate-change,Department of Energy and Climate Change,ministerial-department,http://data.gov.uk/publisher/department-of-energy-and-climate-change,,catherine.harding@decc.gsi.gov.uk,
-department-of-health,Department of Health,ministerial-department,http://data.gov.uk/publisher/department-of-health,Department of Health Contact,http://www.info.doh.gov.uk/contactus.nsf/memo?openform,
-foreign-and-commonwealth-office,Foreign and Commonwealth Office,ministerial-department,http://data.gov.uk/publisher/foreign-and-commonwealth-office,FCO Transparency Unit,transparency.unit@fco.gsi.gov.uk,
-hm-treasury,HM Treasury,ministerial-department,http://data.gov.uk/publisher/hm-treasury,,public.enquiries@hm-treasury.gsi.gov.uk,
-home-office,Home Office,ministerial-department,http://data.gov.uk/publisher/home-office,,public.enquiries@homeoffice.gsi.gov.uk,
-ministry-of-defence,Ministry of Defence,ministerial-department,http://data.gov.uk/publisher/ministry-of-defence,,DMC-SecOnlinePolicy@mod.uk,
-ministry-of-justice,Ministry of Justice,ministerial-department,http://data.gov.uk/publisher/ministry-of-justice,,mojtransparency@justice.gsi.gov.uk,
-northern-ireland-office,Northern Ireland Office,ministerial-department,http://data.gov.uk/publisher/northern-ireland-office,,laura.fretwell@nio.x.gsi.gov.uk,
-scotland-office,Scotland Office,ministerial-department,http://data.gov.uk/publisher/scotland-office,,ScotlandOfficeStrategyBranchMailbox@scotlandoffice.gsi.gov.uk,
-uk-export-finance,UK Export Finance,ministerial-department,http://data.gov.uk/publisher/uk-export-finance,,,
-wales-office,Wales Office,ministerial-department,http://data.gov.uk/publisher/wales-office,,walesofficefoi@walesoffice.gsi.gov.uk,
+id,title
+agri-food-and-biosciences-institute-fisheries-and-aquatic-ecosystems-branch,Agri-Food and Biosciences Institute - Fisheries and Aquatic Ecosystems Branch
+belfast,Belfast City Council
+business-services-organisation,Business Services Organisation
+department-for-employment-and-learning,Department for Employment and Learning
+department-for-infrastructure-planning,Department for Infrastructure - Planning 
+department-of-agriculture-environment-and-rural-affairs-air-and-environmental-quality-unit,"Department of Agriculture, Environment and Rural Affairs - Air and Environmental Quality Unit"
+department-of-agriculture-environment-rural-affairs-statistics-analytical-services-branch,"Department of Agriculture, Environment and Rural Affairs - Statistics and Analytical Services Branch"
+department-of-culture-arts-leisure-inland-fisheries,"Department of Culture, Arts & Leisure – Inland Fisheries "
+department-of-health,Department of Health
+department-of-social-development-analytical-services-unit,Department for Social Development - Analytical Services Unit
+driver-and-vehicle-agency,Driver and Vehicle Agency
+geological-survey-of-northern-ireland,Geological Survey of Northern Ireland 
+invest-northern-ireland,Invest Northern Ireland 
+land-property,Land & Property Services
+libraries-ni,Libraries NI
+ni-water,NI Water
+northern-ireland-assembly,Northern Ireland Assembly 
+northern-ireland-environment-agency-water-management-unit,Northern Ireland Environment Agency – Water Management Unit
+northern-ireland-executive,Northern Ireland Executive
+northern-ireland-statistics-and-research-agency,Northern Ireland Statistics and Research Agency
+open-data-publisher-demo,OpenDataNI
+police-service-of-northern-ireland,Police Service of Northern Ireland
+public-health-agency,Public Health Agency
+sport-northern-ireland,Sport Northern Ireland
+the-electoral-office-of-northern-ireland,The Electoral Office for Northern Ireland
+translink,Translink
+transportni,TransportNI
