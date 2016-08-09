@@ -1,2 +1,0 @@
-git+https://github.com/okfn/data-quality-cli.git@feature/new-scoring-algorithms#egg=data-quality-cli
-requests

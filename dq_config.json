@@ -1,4 +1,5 @@
 {
+    "assess_timeliness": false,
     "branch": "master",
     "cache_dir": "/home/g/Documents/uk_spend/fetched",
     "data_dir": "/home/g/Documents/uk_spend/data",
@@ -7,22 +8,22 @@
     },
     "datapackage_file": "datapackage.json",
     "goodtables": {
-        "goodtables_web": "http://goodtables.okfnlabs.org",
         "arguments": {
-            "pipeline": {
-                "processors": ["structure", "schema"],
-                "options":{
-                        "schema": {"case_insensitive_headers": true}
-                },
-                "encoding": "ISO-8859-2"
-            },
             "batch": {
-                "sleep":2,
                 "data_key": "data",
                 "format_key": "format",
-                "schema_key": "schema"
+                "sleep": 3
+            },
+            "pipeline": {
+                "break_on_invalid_processor": false,
+                "processors": ["structure", "schema"],
+                "options":{
+                    "schema": {"case_insensitive_headers": true}
+                },
+                "encoding": "ISO-8859-2"
             }
-        }
+        },
+        "goodtables_web": "http://goodtables.okfnlabs.org"
     },
     "performance_file": "performance.csv",
     "publisher_file": "publishers.csv",
@@ -32,6 +33,5 @@
     "result_file": "results.csv",
     "run_file": "runs.csv",
     "source_file": "sources.csv",
-    "assess_timeliness": false,
     "timeliness": {}
 }
