@@ -53,9 +53,9 @@ carnegie-library-of-pittsburgh,2016-02-01,0,0,0,0,0,0
 carnegie-library-of-pittsburgh,2016-03-01,0,0,0,0,0,0
 carnegie-library-of-pittsburgh,2016-04-01,0,0,0,0,0,0
 carnegie-library-of-pittsburgh,2016-05-01,0,0,0,0,0,0
-carnegie-library-of-pittsburgh,2016-06-01,2,100,100,2,100,100
-carnegie-library-of-pittsburgh,2016-07-01,0,0,0,2,100,100
-carnegie-library-of-pittsburgh,2016-08-01,0,0,0,2,100,100
+carnegie-library-of-pittsburgh,2016-06-01,2,50,50,2,50,50
+carnegie-library-of-pittsburgh,2016-07-01,0,0,0,2,50,50
+carnegie-library-of-pittsburgh,2016-08-01,0,0,0,2,50,50
 city-of-pittsburgh,2015-02-01,5,20,20,5,20,20
 city-of-pittsburgh,2015-03-01,0,0,0,5,20,20
 city-of-pittsburgh,2015-04-01,2,50,50,7,29,29
@@ -129,6 +129,6 @@ all,2016-02-01,0,0,0,131,77,67
 all,2016-03-01,23,90,87,154,79,70
 all,2016-04-01,4,100,100,158,79,71
 all,2016-05-01,4,100,100,162,80,72
-all,2016-06-01,12,82,75,174,80,72
-all,2016-07-01,5,100,100,179,81,73
+all,2016-06-01,12,74,67,174,79,71
+all,2016-07-01,5,100,100,179,80,72
 all,2016-08-01,204,33,33,383,55,51
